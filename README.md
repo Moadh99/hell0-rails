@@ -3,6 +3,9 @@
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
+![My_Image](pictures/Screenshot 2022-07-13 052442.png)
+
+
 Things you may want to cover:
 
 * Ruby version
@@ -22,5 +25,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-
-![Alt text](../../../../mnt/c/Users/Md/AppData/Local/Programs/Microsoft%20VS%20Code/c:/Users/Md/Pictures/Screenshot%202022-07-13%20052442.png)
