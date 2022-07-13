@@ -23,4 +23,4 @@ Things you may want to cover:
 
 * ...
 
-![](../../../../mnt/c/Users/Md/AppData/Local/Programs/Microsoft%20VS%20Code/c:/Users/Md/Pictures/Screenshot%202022-07-13%20052442.png)
+![Alt text](../../../../mnt/c/Users/Md/AppData/Local/Programs/Microsoft%20VS%20Code/c:/Users/Md/Pictures/Screenshot%202022-07-13%20052442.png)
