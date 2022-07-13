@@ -6,7 +6,7 @@
 
 Things learnd from this project:
 
-* If I install bundle already not neccercry to install it every time I create new project just by skipping the bundle and use the local bundle
+* If I install bundle already not neccercry to install it every time, I create new project just by skipping the bundle and use the local bundle
     ``` rails new --skip-bundle```
 
 * render htlml
