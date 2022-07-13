@@ -1,30 +1,14 @@
-# README
+# Hello, World (APP using Rails)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
 ![Screenshot 2022-07-13 052442](https://user-images.githubusercontent.com/83712886/178735611-9e646b16-44db-4d38-a369-70514836e8f3.png)
 
 
+Things learnd from this project:
 
+*If I install bundle already not neccercry to install it every time I create new project just by skipping the bundle and use the local bundle
+    ``` rails new --skip-bundle```
 
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+*render htlml
+ 
+*How to change routes
